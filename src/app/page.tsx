@@ -21,8 +21,7 @@ export default function Home() {
       <div>
         <section>
           <p className={'prose'}>
-            Hello, I&apos;m <b>Luke</b>. I&apos;m a software engineer in love
-            with front end development. This is the starter template for Tech Journey!
+            You stink fam.
           </p>
           <div className={'my-4'}>
             <i>
@@ -39,7 +38,7 @@ export default function Home() {
         </section>
 
         <div className={'my-4'}>
-          <Image className={'rounded'} src={`https://source.unsplash.com/${imageKey}`} alt={'My Image'} width={500}
+          <Image className={'rounded'} src={``} alt={'My Image'} width={500}
                  height={500}/>
         </div>
 
